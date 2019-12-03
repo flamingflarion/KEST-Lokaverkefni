@@ -1,0 +1,116 @@
+sudo mkdir upply
+  448  ls
+  449  tree
+  450  sudo mkdir þvó
+  451  tree
+  452  cd mark
+  453  sudo groupaddd -r markaðsdeild
+  454  sudo groupadd -r markaðsdeild
+  455  ls
+  456  tree
+  457  cd
+  458  cd /
+  459  cd Adal
+  460  tree
+  461  cd mark
+  462  tree
+  463  ls
+  464  getent group markaðsdeild
+  465  grep markaðsdeild /etc/group
+  466  sudo usermod -aG markaðsdeild linux
+  467  sudo useradd -G markaðsdeild -c 
+  468  sudo useradd -G markaðsdeild -c `Linux Student` -m -s /bin/bash admin palli
+  469  ls
+  470  tree
+  471  cd
+  472  cd /
+  473  cd Adal
+  474  tree
+  475  ls
+  476  ls mark
+  477  tree
+  478  cd mark
+  479  ls
+  480  tree
+  481  rr
+  482  r r
+  483  markaðsdeild:x998:admin palli,linux
+  484  cd
+  485  cd Adal
+  486  cd /
+  487  cd Adal
+  488  cs mark
+  489  cd mark
+  490  ls
+  491  tree
+  492  ls
+  493  sudo groupadd -r markaðsdeild
+  494  getent group markaðsdeild
+  495  ls
+  496  sudo  groupadd -r  markaðsdeild
+  497  tree
+  498  sudo useradd -m -s /bin/bash admin palli -g markaðsdeild - C  
+  499  sudo useradd -m -s /bin/bash admin palli -g markaðsdeild - C ^
+  500  sudo useradd -m -s /bin/bash admin palli -g markaðsdeild - C<'markaðsdeild'
+  501  sudo useradd -m -s /bin/bash admin palli -g markaðsdeild - C 'markaðsdeild'
+  502  ls
+  503  tree
+  504  tree -r
+  505  sudo tree
+  506  -r
+  507  cat /eth/group
+  508  cat /etc/group
+  509  cd
+  510  cd /
+  511  cd mark
+  512  cd Adal
+  513  cd mark
+  514  cd
+  515  cd /
+  516  cd Adal
+  517  cd mark
+  518  tree
+  519  ls
+  520  admin palli:x1001:1001:Linux Student:/hom/admin palli:/bin/sh
+  521  cd Adal
+  522  cd ..
+  523  tree
+  524  cd upply
+  525  tree
+  526  ls
+  527  sudo groupadd -r upplysingadeild
+  528  getent group upplysingadeild
+  529  sudo useradd -m -s /bin/bash palli -g upplysingadeild - c'upplysingadeild'
+  530  cd
+  531  sudo useradd -m -s /bin/bash palli -g upplysingadeild - c'upplysingadeild'
+  532  sudo useradd -m -s /bin/bash palli -g upplysingadeild - c 'upplysingadeild'
+  533  sudo useradd -m -s /bin/bash palli -g upplysingadeild -c 'upplysingadeild'
+  534  cd /
+  535  cd Adil
+  536  cd Alid
+  537  cd Adal
+  538  cd upply
+  539  ls
+  540  tree
+  541  palli:x1001:1001:Linux Student:/home/palli:/bin/sh
+  542  upplysingadeild:x:997:palli,linux
+  543  upplysingadeild:x:997:palli
+  544  upplysingadeild:x:800:palli
+  545  upplysingadeild:x:997:palli
+  546  sudo upplysingadeild:x:997:palli
+  547  sudo useradd -m -s /bin/bash palli -g upplysingadeild -c 'upplysingadeild'
+  548  ls -Rl
+  549  Ls -Rl
+  550  ls -Rl
+  551  tree -p
+  552  tree
+  553  ls
+  554  cat
+  555  cd /
+  556  cd loka
+  557  ls
+  558  cd jólagögn
+  559  ls
+  560  cd sameign
+  561  ls
+  562  history
